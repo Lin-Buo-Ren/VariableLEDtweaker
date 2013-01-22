@@ -1,3 +1,3 @@
-NTOU_W78E58B_project_template
+VariableLEDtweaker
 	License
 		LGPL 3.0
